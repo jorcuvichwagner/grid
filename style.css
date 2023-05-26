@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    background-image: url(fundo.jpg);
     display: grid;
     grid-template-areas: 
         "cab cab cab"
@@ -24,5 +25,5 @@ footer{
 }
 
 header, aside, main, footer{
-    background-color: aquamarine;
+    background-color: rgba(116, 93, 93, 0.7);
 }
